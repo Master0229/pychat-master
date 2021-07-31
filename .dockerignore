@@ -1,0 +1,26 @@
+# https://github.com/docker/hub-feedback/issues/1843
+**
+!download_content.sh
+!backend/requirements.txt
+!backend/manage.py
+!backend/chat
+!backend/templates
+!frontend/src
+!frontend/patches
+!frontend/package.json
+!frontend/yarn.lock
+!frontend/tsconfig.json
+!frontend/DefaultSmilies.cfpack
+!frontend/extract_cfpack.py
+!frontend/tsconfig.esnext.json
+!frontend/webpack.config.js
+!frontend/builder.js
+!frontend/font-config.json
+!docker/populate
+!docker/tornado
+!docker/nginx.conf
+!docker/nginx
+!docker/pychat.org/certificate.crt
+!docker/pychat.org/production.json
+!docker/pychat.org/server.key
+!docker/pychat.org/settings.py

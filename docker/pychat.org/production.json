@@ -1,0 +1,16 @@
+{
+    "BACKEND_ADDRESS": "{}",
+    "IS_DEBUG": true,
+    "GOOGLE_OAUTH_2_CLIENT_ID": false,
+    "FACEBOOK_APP_ID": false,
+    "RECAPTCHA_PUBLIC_KEY": false,
+    "MANIFEST": false,
+    "AUTO_REGISTRATION": false,
+    "PUBLIC_PATH": null,
+    "ISSUES": false,
+    "STATISTICS": false,
+    "GITHUB_LINK": "https://github.com/akoidan/pychat",
+    "PAINTER": true,
+    "FLAGS": false,
+    "WEBRTC_CONFIG": {"iceServers":[{"urls":["stun:turn2.l.google.com"]}]}
+}
